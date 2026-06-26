@@ -114,3 +114,31 @@ User should finish login/authorization on one preferred platform. Then publish o
 ### Remaining Posting Rule
 
 Created `ops/posting-targets.md` before any posting. Only low-risk targets should be considered for autonomous posting, and final submit actions still require action-time confirmation in the browser.
+
+## 2026-06-26 Reddit Login Attempt
+
+### What I Did
+
+- Continued Reddit login using the visible Henry Parker Google account, as requested.
+- Selected `Henry Parker henryparker0307@gmail.com` on the Google account chooser.
+- Reddit/Google redirected to `https://accounts.google.com/gsi/transform`.
+- Retried from Reddit's login page using the embedded `Continue as Henry` Google option.
+- Selected the Henry Parker account again.
+
+### Result
+
+- Login did not complete.
+- Browser remained stuck at Google `gsi/transform`.
+- A direct check of `https://www.reddit.com/` still showed `Log In`.
+
+### Public Posts Published
+
+- 0
+
+### DMs Sent
+
+- 0
+
+### Blocker
+
+Reddit login requires manual completion or a retry outside the stuck OAuth transform state. I did not bypass the login flow and did not post/comment/DM.
