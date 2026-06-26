@@ -42,6 +42,4 @@ Send me your TikTok, Instagram, X, LinkedIn, YouTube, shop, or creator profile. 
 
 Manual delivery within 24 hours. No fake claims, no follower promises, no password needed. Just a clearer first impression.
 
-PayPal link: PAYPAL_LINK_HERE
-
-If the link is not ready yet: DM me to pay via PayPal.
+PayPal link: https://www.paypal.me/PARKERHENRY304/5USD

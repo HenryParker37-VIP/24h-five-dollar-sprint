@@ -7,8 +7,9 @@
 - Verified the landing page locally.
 - Confirmed HTML, CSS, JS, and preview PNG all returned `200`.
 - Confirmed no real secrets were present in the project scan; matches were safety text only.
-- Confirmed PayPal link is still missing.
+- Confirmed PayPal link was missing.
 - Asked once for the public PayPal.me or checkout URL.
+- User provided public PayPal.me link: `https://www.paypal.me/PARKERHENRY304/5USD`.
 - Deployed the landing page to GitHub Pages using the already-authenticated GitHub CLI.
 - Created and pushed public repo: `https://github.com/HenryParker37-VIP/24h-five-dollar-sprint`
 - Enabled GitHub Pages from `main` branch `/docs`.
@@ -18,6 +19,7 @@
 ### Live Links Posted/Created
 
 - Landing page: `https://henryparker37-vip.github.io/24h-five-dollar-sprint/`
+- PayPal: `https://www.paypal.me/PARKERHENRY304/5USD`
 - Repo: `https://github.com/HenryParker37-VIP/24h-five-dollar-sprint`
 
 ### People Contacted
@@ -34,7 +36,7 @@
 
 ### Blockers
 
-- Public PayPal link is missing.
+- Public PayPal link has been added.
 - X redirected to login.
 - Reddit redirected to login.
 - No existing browser social account/session is safely available for posting or replies.
@@ -42,19 +44,18 @@
 
 ### Next Actions
 
-1. Add public PayPal link when user provides it.
-2. Use final drafts in `marketing/final-ready-to-post.md`.
-3. Use opportunity list in `marketing/public-opportunities.md`.
-4. Use wave-1 drafts in `marketing/wave-1-prospect-drafts.md`.
-5. If the user logs into X, Reddit, LinkedIn, Facebook, or another platform, prepare a post/comment and request action-time confirmation before publishing.
+1. Use final drafts in `marketing/final-ready-to-post.md`.
+2. Use opportunity list in `marketing/public-opportunities.md`.
+3. Use wave-1 drafts in `marketing/wave-1-prospect-drafts.md`.
+4. If the user logs into X, Reddit, LinkedIn, Facebook, or another platform, prepare a post/comment and request action-time confirmation before publishing.
 
 ### Chance Of Getting First $5
 
-Moderate if posted to warm social channels and 10-20 personalized prospects today. Low without PayPal link or manual social posting access.
+Moderate if posted to warm social channels and 10-20 personalized prospects today.
 
 ### Optimization Notes
 
-- The fallback `DM me to pay via PayPal` keeps the offer usable while payment link is missing.
+- Public PayPal link reduces purchase friction.
 - The strongest likely buyer segment is creators/freelancers with visibly vague bios, because the problem is easy to see and the $5 price is low-friction.
 
 ## 2026-06-26 Research And Posting Surface Check
@@ -90,10 +91,26 @@ Moderate if posted to warm social channels and 10-20 personalized prospects toda
 
 ### Current Blockers
 
-- Need public PayPal link for clean payment flow.
+- PayPal link is available.
 - Need user login/authorization on a social platform before posting or replying.
 - Need action-time confirmation before submitting any post/comment/DM.
 
 ### Next Best Action
 
-User should provide PayPal link and/or log into one preferred platform. Then publish one warm post and send 10 personalized messages using the prepared drafts.
+User should finish login/authorization on one preferred platform. Then publish one warm post and send 10 personalized messages using the prepared drafts.
+
+## 2026-06-26 PayPal Link Added
+
+### What I Did
+
+- Added public PayPal link to buyer-facing page and drafts.
+- Updated `landing-page/index.html` and `docs/index.html`.
+- Updated marketing drafts, live links, wave-1 outreach notes, tracking, and launch board.
+
+### PayPal Link
+
+`https://www.paypal.me/PARKERHENRY304/5USD`
+
+### Remaining Posting Rule
+
+Created `ops/posting-targets.md` before any posting. Only low-risk targets should be considered for autonomous posting, and final submit actions still require action-time confirmation in the browser.

@@ -16,6 +16,6 @@ Status:
 
 - Deployed with GitHub Pages.
 - Source: `main` branch, `/docs` folder.
-- PayPal link is still missing, so the page uses the fallback: `DM me to pay via PayPal.`
+- PayPal link: `https://www.paypal.me/PARKERHENRY304/5USD`
 
 Last checked: 2026-06-26

@@ -6,10 +6,10 @@ Landing page:
 https://henryparker37-vip.github.io/24h-five-dollar-sprint/
 ```
 
-Fallback payment CTA while PayPal link is missing:
+PayPal link:
 
 ```text
-DM me to pay via PayPal.
+https://www.paypal.me/PARKERHENRY304/5USD
 ```
 
 Use this link in posts and replies:
@@ -18,4 +18,4 @@ Use this link in posts and replies:
 Bio Fix page: https://henryparker37-vip.github.io/24h-five-dollar-sprint/
 ```
 
-Do not include private payment details. Send only a public PayPal link when available.
+Do not include private payment details. This is the public buyer-facing PayPal link.

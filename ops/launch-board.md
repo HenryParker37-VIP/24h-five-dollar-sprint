@@ -60,9 +60,7 @@ If you want, I can do the full $5 version: 3 bio options, 3 pinned hooks, and 5 
 ## Step 5: Close simply
 
 ```text
-Here is the PayPal link: PAYPAL_LINK_HERE
-
-If the link is not ready yet: DM me to pay via PayPal.
+Here is the PayPal link: https://www.paypal.me/PARKERHENRY304/5USD
 
 After payment, send your profile link/screenshots, your main goal, and the PayPal screenshot. I’ll deliver within 24 hours.
 ```

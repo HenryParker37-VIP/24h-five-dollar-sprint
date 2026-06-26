@@ -17,7 +17,7 @@ No fake growth promises, just clearer positioning.
 
 Page: https://henryparker37-vip.github.io/24h-five-dollar-sprint/
 
-If the PayPal button is not ready yet: DM me to pay via PayPal.
+PayPal: https://www.paypal.me/PARKERHENRY304/5USD
 ```
 
 ## 2. Creator help post
@@ -54,7 +54,7 @@ No passwords needed. No fake claims. No income promises.
 ```text
 Nice, here’s the simple flow:
 
-1. Pay $5 via PayPal. If the button is not ready yet, DM me to pay via PayPal.
+1. Pay $5 via PayPal: https://www.paypal.me/PARKERHENRY304/5USD
 2. Send your profile link/screenshots, target audience, preferred tone, and PayPal screenshot/order confirmation.
 3. I start after payment is confirmed and deliver within 24 hours.
 

@@ -3,7 +3,7 @@ set -euo pipefail
 
 TEXT='Thanks. Here is the simple flow:
 
-1. DM me to pay via PayPal, or use the PayPal link I send you manually.
+1. Pay $5 via PayPal: https://www.paypal.me/PARKERHENRY304/5USD
 2. Send your profile link/screenshots and your main goal.
 3. I deliver 3 bio options, 3 hooks, and 5 notes within 24 hours.
 

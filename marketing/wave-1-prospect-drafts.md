@@ -8,10 +8,10 @@ Landing page:
 https://henryparker37-vip.github.io/24h-five-dollar-sprint/
 ```
 
-PayPal status:
+PayPal link:
 
 ```text
-PayPal link missing. Use fallback: DM me to pay via PayPal.
+https://www.paypal.me/PARKERHENRY304/5USD
 ```
 
 ## 10 personalized outreach drafts

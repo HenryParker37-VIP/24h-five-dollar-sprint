@@ -2,7 +2,7 @@
 
 Use this as a manual targeting list. Do not scrape, mass-DM, or post the same message everywhere. Pick 10 relevant people, personalize the opener, and send only after you approve it.
 
-Each pitch can point to `https://henryparker37-vip.github.io/24h-five-dollar-sprint/`, or say `DM me to pay via PayPal` while the PayPal link is not ready.
+Each pitch can point to `https://henryparker37-vip.github.io/24h-five-dollar-sprint/` and use the public PayPal link `https://www.paypal.me/PARKERHENRY304/5USD` after someone is interested.
 
 | # | Target type | Where to find them | Weak bio signal | Personalized opener | $5 offer pitch | Non-pushy follow-up |
 | ---: | --- | --- | --- | --- | --- | --- |

@@ -14,8 +14,7 @@ Do not send without approval. Personalize before sending. Only message people wh
 
 Thanks. Here’s the simple flow:
 
-1. Pay $5 via PayPal: PAYPAL_LINK_HERE
-   If the link is not ready yet: DM me to pay via PayPal.
+1. Pay $5 via PayPal: https://www.paypal.me/PARKERHENRY304/5USD
 2. Send your profile link/screenshots and your main goal.
 3. I deliver 3 bio options, 3 hooks, and 5 notes within 24 hours.
 
