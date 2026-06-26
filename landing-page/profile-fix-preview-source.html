@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <style>
+      * { box-sizing: border-box; }
+      body {
+        width: 1200px;
+        height: 800px;
+        margin: 0;
+        display: grid;
+        place-items: center;
+        background: #fbfbf8;
+        color: #171717;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .canvas {
+        width: 1104px;
+        height: 704px;
+        overflow: hidden;
+        background: #fff;
+        border: 3px solid #d7dde5;
+        border-radius: 24px;
+      }
+      .top {
+        height: 104px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 38px;
+        background: #136f63;
+        color: #fff;
+      }
+      h1 { margin: 0; font-size: 52px; letter-spacing: 0; }
+      .badge {
+        padding: 14px 18px;
+        background: #f26d6d;
+        border-radius: 10px;
+        font-size: 22px;
+        font-weight: 800;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 120px;
+        padding: 32px 40px;
+      }
+      .box {
+        min-height: 276px;
+        padding: 30px;
+        background: #fbfbf8;
+        border: 2px solid #d7dde5;
+        border-radius: 18px;
+      }
+      h2 { margin: 0 0 28px; font-size: 32px; color: #5c6470; letter-spacing: 0; }
+      .after h2 { color: #136f63; }
+      p { margin: 0 0 16px; font-size: 30px; line-height: 1.22; }
+      .after p { font-weight: 800; }
+      .hooks {
+        margin: 0 40px;
+        padding: 22px 32px;
+        background: #f6c85f;
+        border: 2px solid #171717;
+        border-radius: 18px;
+      }
+      .hooks h2 { margin-bottom: 14px; color: #171717; }
+      ol { margin: 0; padding-left: 28px; font-size: 23px; line-height: 1.25; }
+    </style>
+  </head>
+  <body>
+    <div class="canvas">
+      <div class="top">
+        <h1>$5 Bio Fix Delivery Preview</h1>
+        <div class="badge">24h manual delivery</div>
+      </div>
+      <div class="grid">
+        <section class="box">
+          <h2>Before</h2>
+          <p>Fitness lover.</p>
+          <p>Helping people be better.</p>
+          <p>DM me.</p>
+        </section>
+        <section class="box after">
+          <h2>After</h2>
+          <p>Simple home workouts for busy beginners.</p>
+          <p>Build strength without gym stress.</p>
+          <p>DM "START".</p>
+        </section>
+      </div>
+      <section class="hooks">
+        <h2>Pinned hooks included</h2>
+        <ol>
+          <li>Start here if workouts feel too complicated.</li>
+          <li>I help busy beginners build a 10-minute habit.</li>
+          <li>3 beginner mistakes that make consistency harder.</li>
+        </ol>
+      </section>
+    </div>
+  </body>
+</html>
