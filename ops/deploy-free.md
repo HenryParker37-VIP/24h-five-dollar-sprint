@@ -85,7 +85,7 @@ Then enable Pages from the GitHub repo settings, or ask me to prepare the exact 
 Copy the public landing-page URL, for example:
 
 ```text
-https://your-site-name.netlify.app
+https://henryparker37-vip.github.io/24h-five-dollar-sprint/
 ```
 
 Use that URL anywhere the drafts say `[LANDING_PAGE_URL]` or where you want to send people to the offer page.
