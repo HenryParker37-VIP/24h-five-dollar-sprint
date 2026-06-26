@@ -142,3 +142,65 @@ Created `ops/posting-targets.md` before any posting. Only low-risk targets shoul
 ### Blocker
 
 Reddit login requires manual completion or a retry outside the stuck OAuth transform state. I did not bypass the login flow and did not post/comment/DM.
+
+## 2026-06-26 Reddit Login Via Chrome
+
+### What I Did
+
+- Connected to the user's Chrome profile after explicit user request.
+- Opened Reddit login in Chrome.
+- Used the visible `Continue as Henry` Google login button.
+- Reddit showed a JavaScript challenge URL, which resolved naturally.
+- Skipped optional gender/about-you personalization.
+- Selected non-sensitive relevant feed topics: Career, Technology, Entrepreneurship, Freelancing, Side Hustles.
+- Completed Reddit onboarding.
+
+### Result
+
+- Reddit is logged in as `Valuable_Pickle_7264`.
+- No posts, comments, or DMs were submitted.
+- Updated `ops/posting-targets.md` with logged-in state.
+
+### Next Action
+
+Prepare a low-risk own-profile Reddit post and ask for action-time confirmation before clicking the final submit/post button.
+
+## 2026-06-26 Reddit Own-Profile Draft Prepared
+
+### What I Did
+
+- Opened `https://www.reddit.com/user/Valuable_Pickle_7264/submit`.
+- Confirmed the post target is `u/Valuable_Pickle_7264`.
+- Filled a low-risk own-profile post draft.
+- Did not click `Post`.
+
+### Draft Title
+
+```text
+Tiny $5 profile bio fix experiment today
+```
+
+### Draft Body
+
+```text
+I’m doing a tiny 24-hour experiment: $5 profile bio fixes for creators/freelancers.
+
+Send a profile link, I’ll send:
+- 3 clearer bio options
+- 3 pinned post hooks
+- 5 practical notes
+- 1 small revision
+
+No fake growth promises, just clearer positioning.
+
+Page: https://henryparker37-vip.github.io/24h-five-dollar-sprint/
+PayPal: https://www.paypal.me/PARKERHENRY304/5USD
+```
+
+### Public Posts Published
+
+- 0
+
+### Current State
+
+Chrome tab is left open with the draft ready. User must approve/click final `Post`.
